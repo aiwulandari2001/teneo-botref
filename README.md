@@ -1,6 +1,15 @@
 # Teneo Bot
 Teneo bot is a simple tool designed to automate the node interaction.
 
+Extension link : [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)
+Dashboard Link : [Dashboard](https://dashboard.teneo.pro/dashboard)
+
+My reff code if you want to use :) : 
+```bash
+YdHHt
+```
+
+
 ## Features
 - **Automated node interaction**
 
@@ -11,7 +20,7 @@ Teneo bot is a simple tool designed to automate the node interaction.
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/recitativonika/teneo-bot.git
+   git clone https://github.com/im-hanzou/teneo-bot.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -50,11 +59,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Note
 This script only for testing purpose, using this script might violates ToS and may get your account permanently banned.
-
-Extension link : [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)
-Dashboard Link : [Dashboard](https://dashboard.teneo.pro/dashboard)
-
-My reff code if you want to use :) : 
-```bash
-ldepa
-```
