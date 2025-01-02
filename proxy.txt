@@ -1,4 +1,10 @@
-ip:port
-username:password@ip:port
-http://ip:port
-http://username:password@ip:port
+http://21773547-zone-custom-sessid-HTcBV0HW-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-eXYcFv1J-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-AzkGiAcq-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-yY8Jbq32-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-4j6YMj0X-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-ZOQEPbhw-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-cdxTZnOd-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-PuEKidTi-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-x75KQBMk-sessTime-15:r2r15Tk0@aus.360s5.com:3600
+http://21773547-zone-custom-sessid-kjFqLuq8-sessTime-15:r2r15Tk0@aus.360s5.com:3600
